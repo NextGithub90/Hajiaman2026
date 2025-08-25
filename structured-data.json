@@ -1,0 +1,102 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TravelAgency",
+  "name": "Haji Aman 2026 - Teh Lulu",
+  "description": "Layanan haji kuota resmi tanpa antri 2026 dengan pengalaman sejak tahun 2000. Pastikan keberangkatan haji Anda dengan aman dan nyaman bersama Teh Lulu.",
+  "url": "https://hajiaman2026.com",
+  "logo": "https://hajiaman2026.com/images/logo.png",
+  "image": "https://hajiaman2026.com/images/haji-hero.jpg",
+  "telephone": "+62-895-0805-4475",
+  "email": "info@hajiaman2026.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Jakarta",
+    "addressCountry": "ID"
+  },
+  "foundingDate": "2000",
+  "founder": {
+    "@type": "Person",
+    "name": "Teh Lulu"
+  },
+  "serviceArea": {
+    "@type": "Country",
+    "name": "Indonesia"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Layanan Haji",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Haji Kuota Resmi Tanpa Antri 2026",
+          "description": "Paket haji dengan kuota resmi Saudi Arabia dan Indonesia, langsung berangkat tanpa antri dengan jaminan sampai Arafah",
+          "provider": {
+            "@type": "Organization",
+            "name": "Haji Aman 2026"
+          }
+        },
+        "price": "100000000",
+        "priceCurrency": "IDR",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2024-01-01",
+        "validThrough": "2026-12-31"
+      }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "150",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Ahmad Suryadi"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "Alhamdulillah, proses haji bersama Teh Lulu sangat lancar. Semua dokumen diurus dengan baik dan kami benar-benar sampai di Arafah tanpa kendala. Pelayanan yang sangat memuaskan!"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Siti Nurhaliza"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "Edukasi 1-on-1 yang diberikan sangat membantu kami memahami setiap tahapan. Teh Lulu sangat sabar menjelaskan dan memastikan kami siap. Terima kasih atas bimbingannya!"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Muhammad Rizki"
+      },
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "reviewBody": "Pengalaman haji yang luar biasa! Semua proses transparan, tidak ada biaya tersembunyi, dan benar-benar sesuai janji. Haji mabrur Alhamdulillah berkat bimbingan Teh Lulu."
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/hajiaman2026",
+    "https://www.instagram.com/hajiaman2026",
+    "https://www.youtube.com/hajiaman2026",
+    "https://www.tiktok.com/@hajiaman2026"
+  ]
+}
