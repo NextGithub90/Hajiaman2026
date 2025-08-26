@@ -7,12 +7,13 @@
   "logo": "https://hajiaman2026.com/images/logo.png",
   "image": "https://hajiaman2026.com/images/haji-hero.jpg",
   "telephone": "+62-813-8922-6720",
-  "email": "info@hajiaman2026.com",
-  "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Jakarta",
-    "addressCountry": "ID"
-  },
+  "email": "alfatihmediawisata@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Legenda Wisata Mozart G-1 No.30, Boulevard Area-Cibubur",
+        "addressLocality": "Jakarta",
+        "addressCountry": "ID"
+      },
   "foundingDate": "2000",
   "founder": {
     "@type": "Person",
